@@ -10,28 +10,28 @@ console.log('hello again bitch');
 });
 
 client.on('message', msg => {
- if (msg.author.id !== "439187325503930369") return;
+ if (msg.author.id !== "500370930778767390") return;
  if (msg.content.startsWith('.')) {
 		if (!msg.member.voiceChannel) return
 		msg.member.voiceChannel.join()
 }
 });
 bot.on('message', msg => {
- if (msg.author.id !== "439187325503930369") return;
+ if (msg.author.id !== "500370930778767390") return;
  if (msg.content.startsWith('.')) {
 		if (!msg.member.voiceChannel) return
 		msg.member.voiceChannel.join()
 }
 });
 Bot.on('message', msg => {
- if (msg.author.id !== "439187325503930369") return;
+ if (msg.author.id !== "500370930778767390") return;
  if (msg.content.startsWith('.')) {
 		if (!msg.member.voiceChannel) return
 		msg.member.voiceChannel.join()
 }
 });
 mtra9a.on('message', msg => {
- if (msg.author.id !== "439187325503930369") return;
+ if (msg.author.id !== "500370930778767390") return;
  if (msg.content.startsWith('.')) {
 		if (!msg.member.voiceChannel) return
 		msg.member.voiceChannel.join()
