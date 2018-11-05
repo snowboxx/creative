@@ -13,7 +13,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers `);
     console.log(`---------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-  client.user.setGame(`Fenixo`);
+  client.user.setGame(`Nothing`);
 }); // 
 const prefix = '*';
 var dat = JSON.parse("{}");
